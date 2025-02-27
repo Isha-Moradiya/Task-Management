@@ -1,6 +1,6 @@
 # Task Management Application
 
-This is a full-stack task management application built using Express.js, React, JWT, bcryptjs, CORS, Toastify, and Slugify. It provides user authentication functionality and allows users to manage tasks efficiently.
+This is a full-stack task management application built using Express.js, React.js, JWT, bcryptjs, CORS, Toastify, Slugify, Context API. It provides user authentication functionality and allows users to manage tasks efficiently.
 
 ## Features
 - User authentication (Register, Login, Logout)
