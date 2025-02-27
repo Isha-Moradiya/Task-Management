@@ -10,12 +10,25 @@ This is a full-stack task management application built using Express.js, React.j
 - Task slug generation using Slugify
 - Notifications using React-Toastify
 - Secure API with CORS enabled
+  
+### Backend Setup to start application
+```bash
+cd server
+nodemon server.js
+```
+### Frontend Setup to start application
+```bash
+cd client
+bun dev or npm run dev
+```
+
 
 ## Tech Stack
 - **Backend:** Node.js, Express.js, MongoDB
 - **Frontend:** React.js, React-Toastify
 - **Authentication:** JSON Web Token (JWT), bcryptjs
 - **Other Dependencies:** CORS, Slugify
+
 
 ## Installation
 
