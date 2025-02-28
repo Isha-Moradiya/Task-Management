@@ -156,6 +156,7 @@ export const Task = () => {
                   placeholder="Enter your task"
                   required
                   rows="5"
+                  cols="10"
                   value={formData.description}
                   onChange={handleInput}
                 />
